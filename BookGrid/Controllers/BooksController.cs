@@ -70,7 +70,7 @@ namespace BookGrid.Controllers
             {
                 await _service.UpdateBookAsync(id, dto);
                 await _service.SaveAsync();
-                return Ok(new { Message = "Book updated successfully" });
+                return Ok("Book updated successfully");
             }
             catch (ArgumentException ex)
             {
@@ -96,7 +96,7 @@ namespace BookGrid.Controllers
 
                 await _service.UpdateBookAsync(id, book);
                 await _service.SaveAsync();
-                return Ok(new { Message = "Book patched successfully" });
+                return Ok("Book patched successfully");
             }
             catch (ArgumentException ex)
             {
