@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BookGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\interfaces\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\interfaces\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BookGrid\\BookGrid\\Migrations\\20250723092526_AddRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookGrid\\Migrations\\20250723092526_AddRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEF7FD-EF2E-4C12-A768-250BF1B778A9}|BookGridTest\\BookGridTest.csproj|c:\\bookgrid\\bookgridtest\\bookscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEF7FD-EF2E-4C12-A768-250BF1B778A9}|BookGridTest\\BookGridTest.csproj|solutionrelative:bookgridtest\\bookscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEF7FD-EF2E-4C12-A768-250BF1B778A9}|BookGridTest\\BookGridTest.csproj|c:\\bookgrid\\bookgridtest\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEF7FD-EF2E-4C12-A768-250BF1B778A9}|BookGridTest\\BookGridTest.csproj|solutionrelative:bookgridtest\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\suneer_teksewa\\AppData\\Local\\SourceServer\\3a9c8f1453a72afb846700c0e170047a447c0eeb0aa7ff8ea4bc9df0383a90ce\\src\\NUnitFramework\\framework\\Assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\dal\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\dal\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|c:\\bookgrid\\bookgrid\\models\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D920B4-9E4C-4484-82B4-051D03326634}|BookGrid\\BookGrid.csproj|solutionrelative:bookgrid\\models\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 44,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250723092526_AddRelations.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Migrations\\20250723092526_AddRelations.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Migrations\\20250723092526_AddRelations.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Migrations\\20250723092526_AddRelations.cs",
+              "RelativeToolTip": "BookGrid\\Migrations\\20250723092526_AddRelations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:25:26.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "BookGrid\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:02:06.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BookGrid\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:49:44.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Services\\PublisherService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Services\\PublisherService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Services\\PublisherService.cs",
+              "RelativeToolTip": "BookGrid\\Services\\PublisherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:01:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BookGrid\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:00:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Services\\BookService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Services\\BookService.cs",
+              "RelativeToolTip": "BookGrid\\Services\\BookService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:32:41.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\Repositories\\PublisherRepository.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\PublisherRepository.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\Repositories\\PublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:57:48.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPublisherService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Interfaces\\IPublisherService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Interfaces\\IPublisherService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Interfaces\\IPublisherService.cs",
+              "RelativeToolTip": "BookGrid\\Interfaces\\IPublisherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:59:09.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Interfaces\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Interfaces\\IAuthorService.cs",
+              "RelativeToolTip": "BookGrid\\Interfaces\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:58:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:56:00.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:31:37.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\Repositories\\IPublisherRepository.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\IPublisherRepository.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\Repositories\\IPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:55:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\Repositories\\IAuthorRepository.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\Repositories\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:54:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookGrid\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:34:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "C:\\Users\\suneer_teksewa\\AppData\\Local\\SourceServer\\3a9c8f1453a72afb846700c0e170047a447c0eeb0aa7ff8ea4bc9df0383a90ce\\src\\NUnitFramework\\framework\\Assert.cs",
+              "RelativeDocumentMoniker": "..\\Users\\suneer_teksewa\\AppData\\Local\\SourceServer\\3a9c8f1453a72afb846700c0e170047a447c0eeb0aa7ff8ea4bc9df0383a90ce\\src\\NUnitFramework\\framework\\Assert.cs",
+              "ToolTip": "C:\\Users\\suneer_teksewa\\AppData\\Local\\SourceServer\\3a9c8f1453a72afb846700c0e170047a447c0eeb0aa7ff8ea4bc9df0383a90ce\\src\\NUnitFramework\\framework\\Assert.cs",
+              "RelativeToolTip": "..\\Users\\suneer_teksewa\\AppData\\Local\\SourceServer\\3a9c8f1453a72afb846700c0e170047a447c0eeb0aa7ff8ea4bc9df0383a90ce\\src\\NUnitFramework\\framework\\Assert.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAgwJQBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:01:09.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BooksControllerTests.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGridTest\\BooksControllerTests.cs",
+              "RelativeDocumentMoniker": "BookGridTest\\BooksControllerTests.cs",
+              "ToolTip": "C:\\BookGrid\\BookGridTest\\BooksControllerTests.cs",
+              "RelativeToolTip": "BookGridTest\\BooksControllerTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAxwDMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:41:49.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookServiceTests.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGridTest\\BookServiceTests.cs",
+              "RelativeDocumentMoniker": "BookGridTest\\BookServiceTests.cs",
+              "ToolTip": "C:\\BookGrid\\BookGridTest\\BookServiceTests.cs",
+              "RelativeToolTip": "BookGridTest\\BookServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:38:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\SeedData.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\SeedData.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\SeedData.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:57:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "BookGrid\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:34:34.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Services\\CacheService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Services\\CacheService.cs",
+              "RelativeToolTip": "BookGrid\\Services\\CacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:31:19.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Interfaces\\ICacheService.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "BookGrid\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:30:35.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\appsettings.json",
+              "RelativeDocumentMoniker": "BookGrid\\appsettings.json",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\appsettings.json",
+              "RelativeToolTip": "BookGrid\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T02:56:09.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Models\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Models\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Models\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "BookGrid\\Models\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:06:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Models\\Genre.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Models\\Genre.cs",
+              "RelativeToolTip": "BookGrid\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:59:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Program.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Program.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Program.cs",
+              "RelativeToolTip": "BookGrid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:34:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:30:31.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookGrid\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BookGrid\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:29:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Models\\Publisher.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Models\\Publisher.cs",
+              "RelativeToolTip": "BookGrid\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:27:03.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Models\\Author.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Models\\Author.cs",
+              "RelativeToolTip": "BookGrid\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:26:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\BookGrid\\BookGrid\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookGrid\\Models\\Book.cs",
+              "ToolTip": "C:\\BookGrid\\BookGrid\\Models\\Book.cs",
+              "RelativeToolTip": "BookGrid\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:26:25.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
