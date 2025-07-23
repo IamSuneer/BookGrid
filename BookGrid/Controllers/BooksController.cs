@@ -1,7 +1,5 @@
 ﻿using BookGrid.Interfaces;
-using BookGrid.Models;
 using BookGrid.Models.DTOS;
-using BookGrid.Services;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
@@ -13,7 +11,6 @@ namespace BookGrid.Controllers
     {
         private readonly IBookService _service;
 
-        // Explicit constructor
         public BooksController(IBookService service)
         {
             _service = service;

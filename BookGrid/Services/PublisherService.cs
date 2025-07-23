@@ -1,7 +1,6 @@
 ﻿using BookGrid.DAL.Repositories;
 using BookGrid.Interfaces;
 using BookGrid.Models;
-using BookGrid.Models.ViewModels;
 
 namespace BookGrid.Services
 {

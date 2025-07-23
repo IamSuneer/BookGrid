@@ -1,7 +1,5 @@
-﻿using BookGrid.DAL;
-using BookGrid.Interfaces;
+﻿using BookGrid.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace BookGrid.Controllers
 {

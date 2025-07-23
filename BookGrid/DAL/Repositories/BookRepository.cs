@@ -1,9 +1,7 @@
-﻿using BookGrid.DAL;
-using BookGrid.Models;
+﻿using BookGrid.Models;
 using BookGrid.Models.DTOS;
 using BookGrid.Models.ViewModels;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Caching.Memory;
 
 namespace BookGrid.DAL.Repositories
 {
@@ -11,7 +9,6 @@ namespace BookGrid.DAL.Repositories
     {
         private readonly AppDbContext _context;
 
-        // Explicit constructor
         public BookRepository(AppDbContext context)
         {
             _context = context;
@@ -89,7 +86,7 @@ namespace BookGrid.DAL.Repositories
             {
                 throw new Exception("Error adding book", ex);
             }
-            
+
         }
 
         public async Task SaveAsync()

@@ -25,7 +25,7 @@ namespace BookGrid.DAL.Repositories
 
                 throw new Exception("Error retrieving authors", ex);
             }
-            
+
         }
     }
 }

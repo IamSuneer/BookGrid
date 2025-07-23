@@ -3,7 +3,6 @@ using BookGrid.Interfaces;
 using BookGrid.Models;
 using BookGrid.Models.DTOS;
 using BookGrid.Models.ViewModels;
-using Microsoft.Extensions.Caching.Memory;
 
 namespace BookGrid.Services
 {
@@ -13,7 +12,6 @@ namespace BookGrid.Services
         private readonly ICacheService _cache;
         private const string CacheKey = "books";
 
-        // Explicit constructor
         public BookService(IBookRepository repo, ICacheService cache)
         {
             _repo = repo;
@@ -86,7 +84,6 @@ namespace BookGrid.Services
         {
             try
             {
-                // You'll need a method in your repository to get the raw Book entity or DTO
                 var book = await _repo.GetByIdRawAsync(id);
                 if (book == null) return null;
 
